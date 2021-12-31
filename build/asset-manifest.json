@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/salims-blog/static/css/main.21243890.chunk.css",
+    "main.js": "/salims-blog/static/js/main.e1570db4.chunk.js",
+    "main.js.map": "/salims-blog/static/js/main.e1570db4.chunk.js.map",
+    "runtime-main.js": "/salims-blog/static/js/runtime-main.c1b2903a.js",
+    "runtime-main.js.map": "/salims-blog/static/js/runtime-main.c1b2903a.js.map",
+    "static/js/2.012dead7.chunk.js": "/salims-blog/static/js/2.012dead7.chunk.js",
+    "static/js/2.012dead7.chunk.js.map": "/salims-blog/static/js/2.012dead7.chunk.js.map",
+    "index.html": "/salims-blog/index.html",
+    "static/css/main.21243890.chunk.css.map": "/salims-blog/static/css/main.21243890.chunk.css.map",
+    "static/js/2.012dead7.chunk.js.LICENSE.txt": "/salims-blog/static/js/2.012dead7.chunk.js.LICENSE.txt",
+    "static/media/me.f0d8fbe8.jpeg": "/salims-blog/static/media/me.f0d8fbe8.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1b2903a.js",
+    "static/js/2.012dead7.chunk.js",
+    "static/css/main.21243890.chunk.css",
+    "static/js/main.e1570db4.chunk.js"
+  ]
+}
